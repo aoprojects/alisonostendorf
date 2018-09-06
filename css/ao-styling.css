@@ -210,6 +210,23 @@ body {
 }
 #index-page #portfolio-items a {
 	color: red;
+	font-weight: 600;
+}
+#index-page #portfolio-items p {
+	color: black;
+	font-weight: 500;
+}
+#index-page #portfolio-items ul li:nth-child(4n+3) {
+	background-color: rgba(160,59,49,0.2) !important;
+}
+#index-page #portfolio-items ul li:nth-child(4n+2) {
+	background-color: rgba(114,77,54,0.2) !important;
+}
+#index-page #portfolio-items ul li:nth-child(4n+1) {
+	background-color: rgba(195,112,27,0.2) !important;
+}
+#index-page #portfolio-items ul li:nth-child(4n) {
+	background-color: rgba(112,61,5,0.1) !important;
 }
 #index-page #social-container-index {
 	position: relative;
