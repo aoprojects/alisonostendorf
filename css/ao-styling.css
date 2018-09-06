@@ -311,6 +311,15 @@ h6 a:hover {
 .green {
 
 }
+.headshot-photo-circle {
+	border-radius: 50px;
+	height: 200px;
+	width: 200px;
+	/*background-image: url("images/Alison-2018-photo-cropped-for-website.jpg");*/
+	background-repeat: no-repeat;
+	z-index: -5;
+	margin: 0 auto;
+}
 .logo {
    max-width: 200px;
    margin: 0 auto;
